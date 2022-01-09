@@ -1,5 +1,5 @@
 {
-  "name": "SPAMBOTS",
+  "name": "SP4M BOTS",
   "description": "A Powerful Telegram Spam Bots",
   "keywords": [
     "spambot",
@@ -8,7 +8,7 @@
   ],
     "env": {      
       "API_HASH": {
-        "description": "Api Hash",
+        "description": "Api id",
         "value": "",
         "required": true
       },
